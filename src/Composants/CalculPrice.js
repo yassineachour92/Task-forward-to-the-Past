@@ -42,7 +42,7 @@ export const CalculPrice = ({ value, setValue, setTotalePrix }) => {
         cols={50}
       />
       <div>
-        <Button type="primary" onClick={handleCalculatePrix} disabled={value?.length}>
+        <Button type="primary" onClick={handleCalculatePrix} disabled={!value?.length}>
           Calculate Prix
         </Button>
       </div>
