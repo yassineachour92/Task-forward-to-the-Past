@@ -1,3 +1,5 @@
+This project implements a React application that calculates the total price of a shopping cart of movies based on the rules specified in the statement. You can find the details of the functionality in the project's README file.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
